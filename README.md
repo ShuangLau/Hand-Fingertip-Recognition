@@ -1,9 +1,9 @@
 # Hand-Fingertip-Recognition
-***
+
 Author: Shuang Liu shuangl@upenn.edu.cn
 
-###Requirements:
-***
+### Requirements:
+----------------------------------
 * OS
   * Ubuntu16.04
 
@@ -19,11 +19,12 @@ Author: Shuang Liu shuangl@upenn.edu.cn
 For a description of the method see:
 应用于自闭症儿童诊断的手势识别系统.pdf
 
-###Setup:
-***
+### Setup:
+----------------------------------
 * Clone the repository to the local computer
 * run hosipital_colormap.py
 * the result is showed in result.avi
 
-###Datasets:
+### Datasets:
+----------------------------------
 The datasets, color.avi, depth.avi and infrared.avi, are recorded by Kinect2.0 from the local hospital laboratory.
