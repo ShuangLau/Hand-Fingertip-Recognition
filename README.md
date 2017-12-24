@@ -1,6 +1,6 @@
 # Hand-Fingertip-Recognition
 
-Author: Shuang Liu shuangl@upenn.edu.cn
+Author: Shuang Liu shuangl@seas.upenn.edu
 
 ### Requirements:
 
